@@ -1,0 +1,35 @@
+{
+    "name": "linkIt",
+    "title": "linkIt jQuery Plugin",
+    "description": "jQuery plugin to convert any element into a link",
+    "keywords": [
+        "hyperlink",
+        "text",
+        "html",
+        "link",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Joel Mora",
+        "url": "https://github.com/joelbolt35"
+    },
+    "maintainers": [
+        {
+            "name": "Joel Mora",
+            "email": "joelemora.jm@gmail.com",
+            "url": "https://github.com/joelbolt35"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/joelbolt35/jquery.linkIt/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/joelbolt35/jquery.linkIt",
+    "docs": "https://github.com/joelbolt35/jquery.linkIt",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
