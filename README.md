@@ -4,11 +4,15 @@
 
 ## Version ##
 
-0.1.0
+0.2.0
 
 ## Usage ##
 
-    <script>
+    $('h1').linkIt({
+        text: 'Click Here',
+        href: 'https://www.youtube.com',
+        target: '_self'
+    });
 
 ## Vendors ##
 
